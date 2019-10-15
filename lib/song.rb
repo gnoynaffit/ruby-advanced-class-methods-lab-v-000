@@ -53,5 +53,5 @@ end
 
 def self.create_from_filename(name)
   song = self.new_by_name
-  song.name   
+  song.name
 # Array#sort_by.
