@@ -68,5 +68,5 @@ end
   end
 
 end
- ProTip! Use n 
+ 
 # Array#sort_by.
